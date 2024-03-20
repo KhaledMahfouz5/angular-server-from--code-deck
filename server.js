@@ -3,7 +3,7 @@ const fs = require("fs");
 const cors = require("cors");
 
 const app = express();
-const port = 3000;
+const port = 5500 ;
 
 // Cors configuration - Allows requests from localhost:4200
 const corsOptions = {
